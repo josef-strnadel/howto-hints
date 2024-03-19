@@ -5,4 +5,4 @@ This repository gathers my **education-related projects**. Primarily, I created 
 but **others are welcome to used it** too. 
 
 Actually, this **repository involves**:
-- **techrep_notes** (notes to writing a technical report)
+- **techrep_notes** (notes to writing a technical report); available in 🇨🇿
