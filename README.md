@@ -1,8 +1,5 @@
-# edu
-
-This repository gathers my **education-related projects**. Primarily, I created it as a **support for my students** 
-(see, e.g., https://www.fit.vut.cz/person/strnadel/teaching/#nav),
-but **others are welcome to used it** too. 
+# Howto - Hints
+This repository gathers a **mixture of information** that may help one to solve particular problems. 
 
 Actually, this **repository involves**:
 - **techrep_notes** (notes to writing a technical report); available in 🇨🇿
